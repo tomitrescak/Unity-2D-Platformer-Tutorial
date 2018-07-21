@@ -7,8 +7,8 @@
       <File FileName="Assets/Standard Assets/2D/Scripts/Platformer2DUserControl.cs" Line="1" Column="1" />
       <File FileName="Assets/Resources/Levels/Level1.txt" Line="1" Column="1" />
       <File FileName="Assets/Resources/Levels/Level2.txt" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/LevelManager.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/SmoothFollow2D.cs" Line="36" Column="1" />
+      <File FileName="Assets/Scripts/LevelManager.cs" Line="85" Column="1" />
+      <File FileName="Assets/Scripts/SmoothFollow2D.cs" Line="38" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
